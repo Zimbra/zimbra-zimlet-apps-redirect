@@ -4,7 +4,13 @@ With this Zimlet administrators can change the behaviour of the navigation butto
 
 ![Cloudapps screen](documentation/cloudapps-screen.png)
 
-So when the user clicks on the cloud icon, the user will go directly to Briefcase. See additional videos in the documentation folder.
+So when the user clicks on the cloud icon, the user will go directly to Briefcase. See additional videos in the documentation folder and animated gif images below:
+
+> ![](documentation/before.gif)
+*Before installing Zimlet, it takes 2 clicks to go to Briefcase*
+
+> ![](documentation/after.gif)
+*After installing Zimlet, it takes 1 click to go to Briefcase*
 
 ## Cookbook example
 
